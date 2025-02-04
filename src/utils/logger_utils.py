@@ -5,7 +5,7 @@ from collections import defaultdict
 
 import numpy as np
 
-from src.tiny_agent.models import TINY_AGENT_DIR
+from TinyAgent.src.tiny_agent.models import TINY_AGENT_DIR
 
 # Global variable to toggle logging
 LOG_ENABLED = True

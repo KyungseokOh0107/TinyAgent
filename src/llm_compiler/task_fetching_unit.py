@@ -4,7 +4,7 @@ import asyncio
 from dataclasses import dataclass
 from typing import Any, Callable, Collection, Dict, List, Optional
 
-from src.utils.logger_utils import log
+from TinyAgent.src.utils.logger_utils import log
 
 SCHEDULING_INTERVAL = 0.01  # seconds
 
